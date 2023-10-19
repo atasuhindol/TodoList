@@ -1,4 +1,4 @@
-# You can look hre for the first start: https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+# You can look here for the first start: https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
 
 # Getting Started with Create React App
 
